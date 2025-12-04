@@ -564,6 +564,7 @@ background: var(--Grayscale-100, #F7F8FA);
     flex-direction: column;
 }
 
+
 .card_image_partner {
     width: 100%;
     height: 376px;
@@ -867,6 +868,7 @@ border: none;
 
 .icon_footer {
     transition: all 0.5s ease;
+    cursor: pointer;
 }
 
 .icon_footer:hover {

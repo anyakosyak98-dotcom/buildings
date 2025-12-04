@@ -1,3 +1,4 @@
+
 document.addEventListener('DOMContentLoaded', () => {
     // 1. Получение элементов
     const portfolioSlider = document.querySelector('.portfolio_slider');
